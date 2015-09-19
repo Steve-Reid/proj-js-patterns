@@ -1,0 +1,24 @@
+{
+  "name": "proj-js-patterns",
+  "version": "1.0.0",
+  "description": "JavaScript Design Pattern Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Steve-Reid/proj-js-patterns.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "design",
+    "patterns"
+  ],
+  "author": "Steve Reid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Steve-Reid/proj-js-patterns/issues"
+  },
+  "homepage": "https://github.com/Steve-Reid/proj-js-patterns"
+}
